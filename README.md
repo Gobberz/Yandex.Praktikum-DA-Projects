@@ -1,5 +1,5 @@
 # Yandex.Praktikum-DA-Projects
-My projects completed by me in the process of training as a Data Analyst in Yandex.Praktikum
+My projects completed by me in the process of studying as a Data Analyst in Yandex.Praktikum
 
 Projects are made in Russian.
 
