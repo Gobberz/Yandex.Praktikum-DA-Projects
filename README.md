@@ -3,3 +3,4 @@ My projects completed by me in the process of training as a Data Analyst in Yand
 
 Projects are made in Russian.
 
+![Course program and completed stages](/sert_DA.jpg)
