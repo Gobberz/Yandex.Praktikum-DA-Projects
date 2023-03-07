@@ -15,5 +15,5 @@ Projects are made in Russian.
 ### Professional Training Course: SQL for Working with Data and Analytics ([PDF-version](certificate/sert_SQL_YP.pdf))
 
 ## Description of projects:
-| Номер проекта | Project number | What is the project about                                                     |
+| Project number| Project name and link | What is the project about                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
