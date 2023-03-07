@@ -10,7 +10,7 @@ Projects are made in Russian.
 
 ## Sertificates:
 
-### Professional specialization Data analyst: ([PDF-version](certificate/sert_SQL_YP.pdf)):
+### Professional specialization Data analyst: ([PDF-version](certificate/sert_DA_YP.pdf)):
 
 ### Professional Training Course: SQL for Working with Data and Analytics ([PDF-version](certificate/sert_SQL_YP.pdf))
 
