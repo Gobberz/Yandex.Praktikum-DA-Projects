@@ -8,7 +8,7 @@ Projects are made in Russian.
 
 ![Course program and completed stages](/sert_SQL.png)
 
-## Sertificates:
+## Certificates:
 
 ### Professional specialization Data analyst: ([PDF-version](certificate/sert_DA_YP.pdf)):
 
